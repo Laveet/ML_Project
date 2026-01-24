@@ -1,0 +1,109 @@
+2026-01-25 00:04:01,259 | INFO     | root | ingestion.py:24 | Data ingestion is started
+2026-01-25 00:04:01,262 | INFO     | root | ingestion.py:27 | Read the dataset as DF
+2026-01-25 00:04:01,285 | INFO     | root | ingestion.py:33 | Ingestion is completed
+2026-01-25 00:04:01,306 | INFO     | root | transformation.py:58 | train data is loaded
+2026-01-25 00:04:01,306 | INFO     | root | transformation.py:59 | test data is loaded
+2026-01-25 00:04:01,306 | INFO     | root | transformation.py:61 | obtaining preprocessing data object
+2026-01-25 00:04:01,306 | INFO     | root | transformation.py:38 | Numericl columns imputation and scaling is done
+2026-01-25 00:04:01,307 | INFO     | root | transformation.py:39 | categorical columns imputation, encoding and scaling is done
+2026-01-25 00:05:47,322 | INFO     | root | ingestion.py:24 | Data ingestion is started
+2026-01-25 00:05:47,325 | INFO     | root | ingestion.py:27 | Read the dataset as DF
+2026-01-25 00:05:47,334 | INFO     | root | ingestion.py:33 | Ingestion is completed
+2026-01-25 00:06:32,428 | INFO     | root | ingestion.py:24 | Data ingestion is started
+2026-01-25 00:06:32,431 | INFO     | root | ingestion.py:27 | Read the dataset as DF
+2026-01-25 00:06:32,441 | INFO     | root | ingestion.py:33 | Ingestion is completed
+2026-01-25 00:06:42,541 | INFO     | root | ingestion.py:24 | Data ingestion is started
+2026-01-25 00:06:42,544 | INFO     | root | ingestion.py:27 | Read the dataset as DF
+2026-01-25 00:06:42,554 | INFO     | root | ingestion.py:33 | Ingestion is completed
+2026-01-25 00:06:42,582 | INFO     | root | transformation.py:58 | train data is loaded
+2026-01-25 00:06:42,582 | INFO     | root | transformation.py:59 | test data is loaded
+2026-01-25 00:06:42,582 | INFO     | root | transformation.py:61 | obtaining preprocessing data object
+2026-01-25 00:06:42,582 | INFO     | root | transformation.py:38 | Numericl columns imputation and scaling is done
+2026-01-25 00:06:42,582 | INFO     | root | transformation.py:39 | categorical columns imputation, encoding and scaling is done
+2026-01-25 00:08:05,631 | INFO     | root | ingestion.py:24 | Data ingestion is started
+2026-01-25 00:08:05,635 | INFO     | root | ingestion.py:27 | Read the dataset as DF
+2026-01-25 00:08:05,644 | INFO     | root | ingestion.py:33 | Ingestion is completed
+2026-01-25 00:08:05,665 | INFO     | root | transformation.py:58 | train data is loaded
+2026-01-25 00:08:05,665 | INFO     | root | transformation.py:59 | test data is loaded
+2026-01-25 00:08:05,665 | INFO     | root | transformation.py:61 | obtaining preprocessing data object
+2026-01-25 00:08:05,665 | INFO     | root | transformation.py:38 | Numericl columns imputation and scaling is done
+2026-01-25 00:08:05,665 | INFO     | root | transformation.py:39 | categorical columns imputation, encoding and scaling is done
+2026-01-25 00:11:15,007 | INFO     | root | ingestion.py:24 | Data ingestion is started
+2026-01-25 00:11:15,010 | INFO     | root | ingestion.py:27 | Read the dataset as DF
+2026-01-25 00:11:15,020 | INFO     | root | ingestion.py:33 | Ingestion is completed
+2026-01-25 00:11:15,044 | INFO     | root | transformation.py:58 | train data is loaded
+2026-01-25 00:11:15,044 | INFO     | root | transformation.py:59 | test data is loaded
+2026-01-25 00:11:15,044 | INFO     | root | transformation.py:61 | obtaining preprocessing data object
+2026-01-25 00:11:15,044 | INFO     | root | transformation.py:38 | Numericl columns imputation and scaling is done
+2026-01-25 00:11:15,044 | INFO     | root | transformation.py:39 | categorical columns imputation, encoding and scaling is done
+2026-01-25 00:11:15,045 | INFO     | root | transformation.py:71 | applying preprocessing on training and test dataset
+2026-01-25 00:14:11,999 | INFO     | root | ingestion.py:24 | Data ingestion is started
+2026-01-25 00:14:12,002 | INFO     | root | ingestion.py:27 | Read the dataset as DF
+2026-01-25 00:14:12,012 | INFO     | root | ingestion.py:33 | Ingestion is completed
+2026-01-25 00:14:12,033 | INFO     | root | transformation.py:58 | train data is loaded
+2026-01-25 00:14:12,034 | INFO     | root | transformation.py:59 | test data is loaded
+2026-01-25 00:14:12,034 | INFO     | root | transformation.py:61 | obtaining preprocessing data object
+2026-01-25 00:14:12,034 | INFO     | root | transformation.py:38 | Numericl columns imputation and scaling is done
+2026-01-25 00:14:12,034 | INFO     | root | transformation.py:39 | categorical columns imputation, encoding and scaling is done
+2026-01-25 00:14:12,035 | INFO     | root | transformation.py:71 | applying preprocessing on training and test dataset
+2026-01-25 00:15:21,657 | INFO     | root | ingestion.py:24 | Data ingestion is started
+2026-01-25 00:15:21,660 | INFO     | root | ingestion.py:27 | Read the dataset as DF
+2026-01-25 00:15:21,669 | INFO     | root | ingestion.py:33 | Ingestion is completed
+2026-01-25 00:15:21,690 | INFO     | root | transformation.py:58 | train data is loaded
+2026-01-25 00:15:21,690 | INFO     | root | transformation.py:59 | test data is loaded
+2026-01-25 00:15:21,690 | INFO     | root | transformation.py:61 | obtaining preprocessing data object
+2026-01-25 00:15:21,690 | INFO     | root | transformation.py:38 | Numericl columns imputation and scaling is done
+2026-01-25 00:15:21,690 | INFO     | root | transformation.py:39 | categorical columns imputation, encoding and scaling is done
+2026-01-25 00:15:21,691 | INFO     | root | transformation.py:71 | applying preprocessing on training and test dataset
+2026-01-25 00:15:35,528 | INFO     | root | ingestion.py:24 | Data ingestion is started
+2026-01-25 00:15:35,531 | INFO     | root | ingestion.py:27 | Read the dataset as DF
+2026-01-25 00:15:35,541 | INFO     | root | ingestion.py:33 | Ingestion is completed
+2026-01-25 00:15:35,562 | INFO     | root | transformation.py:58 | train data is loaded
+2026-01-25 00:15:35,562 | INFO     | root | transformation.py:59 | test data is loaded
+2026-01-25 00:15:35,562 | INFO     | root | transformation.py:61 | obtaining preprocessing data object
+2026-01-25 00:15:35,562 | INFO     | root | transformation.py:38 | Numericl columns imputation and scaling is done
+2026-01-25 00:15:35,562 | INFO     | root | transformation.py:39 | categorical columns imputation, encoding and scaling is done
+2026-01-25 00:15:35,563 | INFO     | root | transformation.py:71 | applying preprocessing on training and test dataset
+2026-01-25 00:24:04,483 | INFO     | root | ingestion.py:24 | Data ingestion is started
+2026-01-25 00:24:04,486 | INFO     | root | ingestion.py:27 | Read the dataset as DF
+2026-01-25 00:24:04,496 | INFO     | root | ingestion.py:33 | Ingestion is completed
+2026-01-25 00:24:04,517 | INFO     | root | transformation.py:59 | train data is loaded
+2026-01-25 00:24:04,517 | INFO     | root | transformation.py:60 | test data is loaded
+2026-01-25 00:24:04,517 | INFO     | root | transformation.py:62 | obtaining preprocessing data object
+2026-01-25 00:24:04,517 | INFO     | root | transformation.py:38 | Numericl columns imputation and scaling is done
+2026-01-25 00:24:04,517 | INFO     | root | transformation.py:39 | categorical columns imputation, encoding and scaling is done
+2026-01-25 00:24:04,518 | INFO     | root | transformation.py:72 | applying preprocessing on training and test dataset
+2026-01-25 00:25:58,626 | INFO     | root | ingestion.py:24 | Data ingestion is started
+2026-01-25 00:25:58,629 | INFO     | root | ingestion.py:27 | Read the dataset as DF
+2026-01-25 00:25:58,639 | INFO     | root | ingestion.py:33 | Ingestion is completed
+2026-01-25 00:25:58,662 | INFO     | root | transformation.py:59 | train data is loaded
+2026-01-25 00:25:58,662 | INFO     | root | transformation.py:60 | test data is loaded
+2026-01-25 00:25:58,662 | INFO     | root | transformation.py:62 | obtaining preprocessing data object
+2026-01-25 00:25:58,662 | INFO     | root | transformation.py:38 | Numericl columns imputation and scaling is done
+2026-01-25 00:25:58,662 | INFO     | root | transformation.py:39 | categorical columns imputation, encoding and scaling is done
+2026-01-25 00:25:58,663 | INFO     | root | transformation.py:72 | applying preprocessing on training and test dataset
+2026-01-25 00:30:52,226 | INFO     | root | ingestion.py:24 | Data ingestion is started
+2026-01-25 00:30:52,229 | INFO     | root | ingestion.py:27 | Read the dataset as DF
+2026-01-25 00:30:52,239 | INFO     | root | ingestion.py:33 | Ingestion is completed
+2026-01-25 00:30:52,261 | INFO     | root | transformation.py:59 | train data is loaded
+2026-01-25 00:30:52,261 | INFO     | root | transformation.py:60 | test data is loaded
+2026-01-25 00:30:52,261 | INFO     | root | transformation.py:62 | obtaining preprocessing data object
+2026-01-25 00:30:52,261 | INFO     | root | transformation.py:38 | Numericl columns imputation and scaling is done
+2026-01-25 00:30:52,261 | INFO     | root | transformation.py:39 | categorical columns imputation, encoding and scaling is done
+2026-01-25 00:30:52,262 | INFO     | root | transformation.py:72 | applying preprocessing on training and test dataset
+2026-01-25 00:32:20,508 | INFO     | root | ingestion.py:24 | Data ingestion is started
+2026-01-25 00:32:20,512 | INFO     | root | ingestion.py:27 | Read the dataset as DF
+2026-01-25 00:32:20,522 | INFO     | root | ingestion.py:33 | Ingestion is completed
+2026-01-25 00:32:20,547 | INFO     | root | transformation.py:59 | train data is loaded
+2026-01-25 00:32:20,547 | INFO     | root | transformation.py:60 | test data is loaded
+2026-01-25 00:32:20,547 | INFO     | root | transformation.py:62 | obtaining preprocessing data object
+2026-01-25 00:33:38,289 | INFO     | root | ingestion.py:24 | Data ingestion is started
+2026-01-25 00:33:38,293 | INFO     | root | ingestion.py:27 | Read the dataset as DF
+2026-01-25 00:33:38,303 | INFO     | root | ingestion.py:33 | Ingestion is completed
+2026-01-25 00:33:38,344 | INFO     | root | transformation.py:59 | train data is loaded
+2026-01-25 00:33:38,344 | INFO     | root | transformation.py:60 | test data is loaded
+2026-01-25 00:33:38,344 | INFO     | root | transformation.py:62 | obtaining preprocessing data object
+2026-01-25 00:33:38,344 | INFO     | root | transformation.py:38 | Numericl columns imputation and scaling is done
+2026-01-25 00:33:38,344 | INFO     | root | transformation.py:39 | categorical columns imputation, encoding and scaling is done
+2026-01-25 00:33:38,346 | INFO     | root | transformation.py:72 | applying preprocessing on training and test dataset
+2026-01-25 00:33:38,367 | INFO     | root | transformation.py:78 | preprocessing object saving

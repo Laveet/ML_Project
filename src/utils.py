@@ -1,0 +1,19 @@
+import sys
+import os
+import pandas as pd
+import numpy as np
+from src.loger import logging
+from src.exception import CustomException
+import dill
+
+def save_object(path,obj):
+    try:
+        dir_path=os.path.dirname(path)
+        os.makedirs(dir_path,exist_ok=True)
+
+        with open(path,"wb") as file_obj:
+            dill.dump(obj,file_obj)
+    except Exception as e:
+        raise CustomException(sys,e)
+    
+        
