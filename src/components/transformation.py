@@ -54,7 +54,7 @@ class DataTransformation:
     def initiate_data_transformation(self,train_path,test_path):
         try:
             train_df=pd.read_csv(train_path)
-            print(train_df.shape)
+            
             test_df=pd.read_csv(test_path)
             logging.info("train data is loaded")
             logging.info("test data is loaded")
