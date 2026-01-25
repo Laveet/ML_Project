@@ -34,3 +34,15 @@
 2026-01-25 22:12:02,340 | INFO     | root | transformation.py:78 | preprocessing object saving
 2026-01-25 22:12:02,343 | INFO     | root | model_trainer.py:32 | Splitting training and testing data
 2026-01-25 22:12:05,021 | INFO     | root | model_trainer.py:57 | Best model found on both training and testing dataset
+2026-01-25 22:52:32,175 | INFO     | root | ingestion.py:26 | Data ingestion is started
+2026-01-25 22:52:32,178 | INFO     | root | ingestion.py:29 | Read the dataset as DF
+2026-01-25 22:52:32,186 | INFO     | root | ingestion.py:35 | Ingestion is completed
+2026-01-25 22:52:32,207 | INFO     | root | transformation.py:59 | train data is loaded
+2026-01-25 22:52:32,207 | INFO     | root | transformation.py:60 | test data is loaded
+2026-01-25 22:52:32,207 | INFO     | root | transformation.py:62 | obtaining preprocessing data object
+2026-01-25 22:52:32,207 | INFO     | root | transformation.py:38 | Numericl columns imputation and scaling is done
+2026-01-25 22:52:32,207 | INFO     | root | transformation.py:39 | categorical columns imputation, encoding and scaling is done
+2026-01-25 22:52:32,208 | INFO     | root | transformation.py:72 | applying preprocessing on training and test dataset
+2026-01-25 22:52:32,220 | INFO     | root | transformation.py:78 | preprocessing object saving
+2026-01-25 22:52:32,222 | INFO     | root | model_trainer.py:32 | Splitting training and testing data
+2026-01-25 22:52:34,929 | INFO     | root | model_trainer.py:57 | Best model found on both training and testing dataset

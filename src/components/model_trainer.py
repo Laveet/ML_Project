@@ -20,7 +20,7 @@ from src.utils import evaluate_models
 
 @dataclass
 class ModelTrainerConfig:
-    trained_model_path=os.path.join("artifcats","model.pkl")
+    trained_model_path=os.path.join("artifacts","model.pkl")
 
 
 class ModelTrainer:
